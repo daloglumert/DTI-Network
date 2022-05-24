@@ -40,6 +40,10 @@ python DTI-Network.py -s 3000
 
 -s parameter is optional. Default value is 3000. It means number of step that you want to train.
 
+5. Wait until finishes.
+
+![Screenshot_5](https://user-images.githubusercontent.com/23219577/170074303-eb2f6d99-77ed-40fb-bcef-4273f79ad6e4.png)
+
 
 # Data Description
 ## data/ directory
